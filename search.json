@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1061157366478929980",
+        "type": 20,
+        "content": "",
+        "channel_id": "963481563633434684",
+        "author": {
+            "id": "270904126974590976",
+            "username": "Dank Memer",
+            "avatar": "d60c6bd5971f06776ba96497117f7f58",
+            "avatar_decoration": null,
+            "discriminator": "5192",
+            "public_flags": 589824,
+            "bot": true
+        },
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "description": "**Where do you want to search?**\n*Pick an option below to start searching that location!*",
+                "color": 3092790
+            }
+        ],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2023-01-07T05:40:31.519000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [
+            {
+                "type": 1,
+                "components": [
+                    {
+                        "type": 2,
+                        "style": 1,
+                        "label": "soul's chamber",
+                        "custom_id": "1061157364989964338_59b15aea-1945-474c-810b-737714e7b097:0"
+                    },
+                    {
+                        "type": 2,
+                        "style": 1,
+                        "label": "ocean",
+                        "custom_id": "1061157364989964338_59b15aea-1945-474c-810b-737714e7b097:1"
+                    },
+                    {
+                        "type": 2,
+                        "style": 1,
+                        "label": "Greg's Farm",
+                        "custom_id": "1061157364989964338_59b15aea-1945-474c-810b-737714e7b097:2"
+                    }
+                ]
+            }
+        ],
+        "application_id": "270904126974590976",
+        "interaction": {
+            "id": "1061157364989964338",
+            "type": 2,
+            "name": "search",
+            "user": {
+                "id": "500639506308005911",
+                "username": "Wraient",
+                "avatar": "a49460bdb67d6564af3cd8e5e3afd916",
+                "avatar_decoration": null,
+                "discriminator": "6202",
+                "public_flags": 0
+            }
+        },
+        "webhook_id": "270904126974590976"
+    }
+]
